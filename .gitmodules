@@ -1,0 +1,6 @@
+[submodule "fundget-frontend"]
+	path = fundget-frontend
+	url = https://github.com/Dandylionn/fundget-frontend.git
+[submodule "fundget-backend"]
+	path = fundget-backend
+	url = https://github.com/Dandylionn/fundget-backend.git
